@@ -8,8 +8,7 @@ Esse projeto contém minha página pessoal feita com **HTML e CSS**, onde aprese
 Este é um portfólio simples e responsivo criado para mostrar meus conhecimentos em desenvolvimento web front-end.  
 Ele inclui seções como:
 - Apresentação pessoal
-- Links para redes sociais (GitHub, LinkedIn, Twitch)
-- Imagem de destaque
+- Links para redes sociais (GitHub, LinkedIn, Instagram)
 - Layout estilizado com CSS moderno
 
 ## 🛠 Tecnologias Utilizadas
@@ -21,7 +20,3 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 | HTML       | Estrutura da página |
 | CSS        | Estilização e layout |
 | VS Code    | Editor de código |
-
-## 📁 Estrutura de Pastas
-
-O projeto segue a estrutura básica:
